@@ -1,0 +1,31 @@
+jugadores ;posicion;min_jugados;min_ingreso;min_salio;goles ;penaltis;autogoles;asistencias;goles_recibidos;penaltis_detenidos;penaltis errados;tarjetas_amariilas;tarjetas_rojas
+David de Gea;Porteros;85;1;85;0;0;0;0;2;0;0;0;0
+Tom Heaton;Porteros;5;85;90;0;0;0;0;0;0;0;0;0
+Axel Tuanzebe;Defensas;90;1;90;0;0;0;0;0;0;0;0;0
+Victor Lindel�f;Defensas;90;1;90;0;0;0;l;0;0;0;0;1
+Phil Jones;Defensas;90;1;90;0;0;0;0;0;0;0;0;0
+Harry Maguire;Defensas;34;56;90;0;0;0;0;0;0;0;0;0
+Lisandro Mart�nez;Defensas;90;1;90;0;0;0;0;1;0;0;0;0
+Bruno Fernandes;mediocampistas;90;1;90;0;0;0;0;0;0;0;0;0
+Christian Eriksen;mediocampistas;90;1;90;0;0;0;0;0;0;0;0;0
+Fred;mediocampistas;56;1;56;0;0;0;1;0;0;0;0;0
+Casemiro;mediocampistas;90;1;90;0;0;0;0;0;0;0;0;0
+Antony;mediocampistas;90;1;90;0;0;0;1;0;0;0;0;0
+Cristiano Ronaldo;Delanteros;90;1;90;3;1;0;0;0;0;0;0;0
+Anthony Martial;Delanteros;72;1;72;0;0;0;0;0;0;0;0;0
+Marcus Rashford;Delanteros;18;72;90;0;0;0;0;0;0;0;0;0
+Ter Stegen;Porteros;90;1;90;0;0;0;0;0;0;0;0;0
+I�aki Pe�a;Portero;0;0;;0;0;0;0;0;0;0;0;0
+H�ctor Beller�n;Defensas;90;1;90;0;0;0;0;0;0;0;0;0
+Gerard Piqu�;Defensas;90;1;90;0;0;0;1;0;0;0;1;0
+Andreas Christensen;Defensas;90;1;90;0;0;0;0;0;0;0;0;0
+Marcos Alonso;Defensas;90;1;90;0;0;0;0;0;0;0;0;0
+Jordi Alba;Defensas;90;1;90;0;0;0;0;0;0;0;1;0
+Oriol Busquets;mediocampistas;90;1;90;0;0;0;1;0;0;0;0;0
+Brahima Fati;mediocampistas;0;0;0;0;0;0;0;0;0;0;0;0
+Sergio Busquets;mediocampistas;90;1;90;0;0;0;0;0;0;0;0;0
+Ansu Fati;mediocampistas;90;1;90;0;0;0;1;0;0;0;0;0
+Yusuf Demir;mediocampistas;90;1;90;0;0;0;0;0;0;0;0;0
+Ousmane Demb�l�;Delanteros;40;60;90;1;0;0;0;0;0;1;1;0
+Pedri;Delanteros;60;1;60;0;0;0;1;0;0;0;1;0;
+Robert Lewandowski;Delanteros;90;1;90;2;0;0;0;0;0;0;0;0
